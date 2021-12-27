@@ -16,9 +16,6 @@ npm install random
 
 To use the bot simply open a terminal and start the script with `node bot.js`
 
-## Contributing
-Feel free to add or contribute to this small script in order to make it a more fluid or effecient process.
-
 ## License
 This script is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
