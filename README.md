@@ -1,5 +1,5 @@
 # A GitHub Commitment Bot</h1>
-This bot's code was originally developed by [Akshay Saini](https://github.com/akshaymarch7?tab=overview&from=2021-12-01&to=2021-12-27). This program is purely for educational purposes only, do not use this script in order to gain an unfair advantage amongst developers or to pretend that your commit history is legitimate.</P>
+This bot's code was originally inspired by [Akshay Saini](https://github.com/akshaymarch7?tab=overview&from=2021-12-01&to=2021-12-27). This program is purely for educational purposes only, do not use this script in order to gain an unfair advantage amongst developers or to pretend that your commit history is legitimate.</P>
 
 ## Installation
 
