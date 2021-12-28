@@ -19,7 +19,7 @@ To use the bot simply open a terminal and start the script with `node bot.js`
 ## License
 This script is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license.
 
-## Source Code
+## Primary Script
 
 ```JavaScript 
 const jsonfile = require("jsonfile");
