@@ -5,13 +5,11 @@
 ## Installation
 Install the required packages for running this script locally using the [node](https://nodejs.org/en/) package manager [npm](https://www.w3schools.com/nodejs/nodejs_npm.asp).
 
-`node
-npm install
-`
+`node npm install`
 
 ## Usage
 
-'node bot.js' can be used to launch the bot application.
+`node bot.js` can be used to launch the bot application.
 
 ## Editable Variables
 
