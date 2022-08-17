@@ -1,4 +1,4 @@
-# GitHub Commitment Bot</h1>
+# Commitment Bot</h1>
 [Akshay Saini](https://github.com/akshaymarch7?tab=overview&from=2021-12-01&to=2021-12-27) was the inspiration for this bot's code. This program is intended solely for educational purposes; do not use it to gain an unfair advantage among developers or to pretend that your commit history is legitimate.
 </P>
 
